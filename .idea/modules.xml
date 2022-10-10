@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atelier2/Atelier2.iml" filepath="$PROJECT_DIR$/Atelier2/Atelier2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atelier3/Atelier3.iml" filepath="$PROJECT_DIR$/Atelier3/Atelier3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtelierJava.iml" filepath="$PROJECT_DIR$/AtelierJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atelier1/Exercice1/Exercice1.iml" filepath="$PROJECT_DIR$/Atelier1/Exercice1/Exercice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atelier1/Exercice2/Exercice2.iml" filepath="$PROJECT_DIR$/Atelier1/Exercice2/Exercice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atelier0/Exercice3/Exercice3.iml" filepath="$PROJECT_DIR$/Atelier0/Exercice3/Exercice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atelier0/atelier0.iml" filepath="$PROJECT_DIR$/Atelier0/atelier0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atelier1/atelier1.iml" filepath="$PROJECT_DIR$/Atelier1/atelier1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atelier0/Exercice1/exercice1.iml" filepath="$PROJECT_DIR$/Atelier0/Exercice1/exercice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atelier0/Exercice2/exerice2.iml" filepath="$PROJECT_DIR$/Atelier0/Exercice2/exerice2.iml" />
+    </modules>
+  </component>
+</project>
